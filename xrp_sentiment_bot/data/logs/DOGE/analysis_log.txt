@@ -1,0 +1,126 @@
+
+==================================================
+📊 DOGE SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-03 22:25:32
+
+💰 Market Data:
+ - Price (USD): $0.1786
+ - Price (SGD): $0.2322
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = 0.265 (Weight: 0.4)
+ - Reddit    : Polarity = 0.056 (Weight: 0.3)
+ - News      : Polarity = 0.090 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: 0.150
+
+💡 Trading Signal:
+ 👉 Action   : HOLD
+ 🔥 Strength : 0.250
+==================================================
+
+==================================================
+📊 DOGE SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-03 22:59:12
+
+💰 Market Data:
+ - Price (USD): $0.1786
+ - Price (SGD): $0.2322
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = 0.261 (Weight: 0.4)
+ - Reddit    : Polarity = 0.056 (Weight: 0.3)
+ - News      : Polarity = 0.090 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: 0.148
+
+💡 Trading Signal:
+ 👉 Action   : HOLD
+ 🔥 Strength : 0.248
+==================================================
+
+==================================================
+📊 DOGE SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-03 23:03:25
+
+💰 Market Data:
+ - Price (USD): $0.1788
+ - Price (SGD): $0.2324
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = 0.244 (Weight: 0.4)
+ - Reddit    : Polarity = 0.056 (Weight: 0.3)
+ - News      : Polarity = 0.090 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: 0.142
+
+💡 Trading Signal:
+ 👉 Action   : HOLD
+ 🔥 Strength : 0.242
+==================================================
+
+==================================================
+📊 DOGE SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-04 15:13:02
+
+💰 Market Data:
+ - Price (USD): $0.1753
+ - Price (SGD): $0.2279
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = 0.231 (Weight: 0.4)
+ - Reddit    : Polarity = 0.000 (Weight: 0.3)
+ - News      : Polarity = 0.092 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: 0.120
+
+💡 Trading Signal:
+ 👉 Action   : HOLD
+ 🔥 Strength : 0.220
+==================================================
+
+==================================================
+📊 DOGE SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-04 15:23:25
+
+💰 Market Data:
+ - Price (USD): $0.1755
+ - Price (SGD): $0.2281
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = 0.211 (Weight: 0.4)
+ - Reddit    : Polarity = 0.000 (Weight: 0.3)
+ - News      : Polarity = 0.092 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: 0.112
+
+💡 Trading Signal:
+ 👉 Action   : HOLD
+ 🔥 Strength : 0.212
+==================================================
+
+==================================================
+📊 DOGE SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-04 15:43:14
+
+💰 Market Data:
+ - Price (USD): $0.1750
+ - Price (SGD): $0.2275
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = 0.189 (Weight: 0.4)
+ - Reddit    : Polarity = 0.000 (Weight: 0.3)
+ - News      : Polarity = 0.090 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: 0.103
+
+💡 Trading Signal:
+ 👉 Action   : HOLD
+ 🔥 Strength : 0.203
+==================================================

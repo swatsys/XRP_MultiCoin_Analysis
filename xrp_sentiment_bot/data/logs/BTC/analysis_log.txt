@@ -1,0 +1,168 @@
+
+==================================================
+📊 BTC SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-03 22:20:50
+
+💰 Market Data:
+ - Price (USD): $0.0000
+ - Price (SGD): $0.0000
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = 0.698 (Weight: 0.4)
+ - Reddit    : Polarity = 0.126 (Weight: 0.3)
+ - News      : Polarity = 0.101 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: 0.347
+
+💡 Trading Signal:
+ 👉 Action   : BUY
+ 🔥 Strength : 0.047
+==================================================
+
+==================================================
+📊 BTC SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-03 22:24:22
+
+💰 Market Data:
+ - Price (USD): $96385.0000
+ - Price (SGD): $125281.0000
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = 0.698 (Weight: 0.4)
+ - Reddit    : Polarity = 0.126 (Weight: 0.3)
+ - News      : Polarity = 0.098 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: 0.347
+
+💡 Trading Signal:
+ 👉 Action   : BUY
+ 🔥 Strength : 0.047
+==================================================
+
+==================================================
+📊 BTC SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-03 22:36:28
+
+💰 Market Data:
+ - Price (USD): $96362.0000
+ - Price (SGD): $125251.0000
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = 0.694 (Weight: 0.4)
+ - Reddit    : Polarity = 0.126 (Weight: 0.3)
+ - News      : Polarity = 0.104 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: 0.346
+
+💡 Trading Signal:
+ 👉 Action   : BUY
+ 🔥 Strength : 0.046
+==================================================
+
+==================================================
+📊 BTC SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-03 22:58:00
+
+💰 Market Data:
+ - Price (USD): $96362.0000
+ - Price (SGD): $125251.0000
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = 0.686 (Weight: 0.4)
+ - Reddit    : Polarity = 0.126 (Weight: 0.3)
+ - News      : Polarity = 0.096 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: 0.341
+
+💡 Trading Signal:
+ 👉 Action   : BUY
+ 🔥 Strength : 0.041
+==================================================
+
+==================================================
+📊 BTC SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-03 23:02:15
+
+💰 Market Data:
+ - Price (USD): $96393.0000
+ - Price (SGD): $125292.0000
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = 0.682 (Weight: 0.4)
+ - Reddit    : Polarity = 0.126 (Weight: 0.3)
+ - News      : Polarity = 0.097 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: 0.340
+
+💡 Trading Signal:
+ 👉 Action   : BUY
+ 🔥 Strength : 0.040
+==================================================
+
+==================================================
+📊 BTC SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-04 15:11:34
+
+💰 Market Data:
+ - Price (USD): $95899.0000
+ - Price (SGD): $124650.0000
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = 0.557 (Weight: 0.4)
+ - Reddit    : Polarity = 0.023 (Weight: 0.3)
+ - News      : Polarity = 0.112 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: 0.264
+
+💡 Trading Signal:
+ 👉 Action   : HOLD
+ 🔥 Strength : 0.236
+==================================================
+
+==================================================
+📊 BTC SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-04 15:21:49
+
+💰 Market Data:
+ - Price (USD): $96021.0000
+ - Price (SGD): $124808.0000
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = 0.561 (Weight: 0.4)
+ - Reddit    : Polarity = 0.023 (Weight: 0.3)
+ - News      : Polarity = 0.112 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: 0.265
+
+💡 Trading Signal:
+ 👉 Action   : HOLD
+ 🔥 Strength : 0.235
+==================================================
+
+==================================================
+📊 BTC SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-04 15:41:22
+
+💰 Market Data:
+ - Price (USD): $95859.0000
+ - Price (SGD): $124597.0000
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = 0.567 (Weight: 0.4)
+ - Reddit    : Polarity = 0.023 (Weight: 0.3)
+ - News      : Polarity = 0.117 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: 0.269
+
+💡 Trading Signal:
+ 👉 Action   : HOLD
+ 🔥 Strength : 0.231
+==================================================

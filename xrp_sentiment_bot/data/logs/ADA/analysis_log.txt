@@ -1,0 +1,147 @@
+
+==================================================
+📊 ADA SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-03 22:25:57
+
+💰 Market Data:
+ - Price (USD): $0.7134
+ - Price (SGD): $0.9273
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = 0.768 (Weight: 0.4)
+ - Reddit    : Polarity = 0.014 (Weight: 0.3)
+ - News      : Polarity = 0.136 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: 0.352
+
+💡 Trading Signal:
+ 👉 Action   : BUY
+ 🔥 Strength : 0.052
+==================================================
+
+==================================================
+📊 ADA SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-03 22:38:16
+
+💰 Market Data:
+ - Price (USD): $0.7164
+ - Price (SGD): $0.9312
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = 0.768 (Weight: 0.4)
+ - Reddit    : Polarity = 0.014 (Weight: 0.3)
+ - News      : Polarity = 0.136 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: 0.352
+
+💡 Trading Signal:
+ 👉 Action   : BUY
+ 🔥 Strength : 0.052
+==================================================
+
+==================================================
+📊 ADA SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-03 22:59:37
+
+💰 Market Data:
+ - Price (USD): $0.7205
+ - Price (SGD): $0.9365
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = 0.771 (Weight: 0.4)
+ - Reddit    : Polarity = 0.014 (Weight: 0.3)
+ - News      : Polarity = 0.137 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: 0.354
+
+💡 Trading Signal:
+ 👉 Action   : BUY
+ 🔥 Strength : 0.054
+==================================================
+
+==================================================
+📊 ADA SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-03 23:03:52
+
+💰 Market Data:
+ - Price (USD): $0.7226
+ - Price (SGD): $0.9392
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = 0.771 (Weight: 0.4)
+ - Reddit    : Polarity = 0.014 (Weight: 0.3)
+ - News      : Polarity = 0.137 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: 0.354
+
+💡 Trading Signal:
+ 👉 Action   : BUY
+ 🔥 Strength : 0.054
+==================================================
+
+==================================================
+📊 ADA SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-04 15:13:27
+
+💰 Market Data:
+ - Price (USD): $0.6991
+ - Price (SGD): $0.9086
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = 0.747 (Weight: 0.4)
+ - Reddit    : Polarity = 0.044 (Weight: 0.3)
+ - News      : Polarity = 0.143 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: 0.355
+
+💡 Trading Signal:
+ 👉 Action   : BUY
+ 🔥 Strength : 0.055
+==================================================
+
+==================================================
+📊 ADA SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-04 15:24:00
+
+💰 Market Data:
+ - Price (USD): $0.7007
+ - Price (SGD): $0.9108
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = 0.747 (Weight: 0.4)
+ - Reddit    : Polarity = 0.044 (Weight: 0.3)
+ - News      : Polarity = 0.143 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: 0.355
+
+💡 Trading Signal:
+ 👉 Action   : BUY
+ 🔥 Strength : 0.055
+==================================================
+
+==================================================
+📊 ADA SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-04 15:43:58
+
+💰 Market Data:
+ - Price (USD): $0.6978
+ - Price (SGD): $0.9070
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = 0.728 (Weight: 0.4)
+ - Reddit    : Polarity = 0.044 (Weight: 0.3)
+ - News      : Polarity = 0.139 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: 0.346
+
+💡 Trading Signal:
+ 👉 Action   : BUY
+ 🔥 Strength : 0.046
+==================================================

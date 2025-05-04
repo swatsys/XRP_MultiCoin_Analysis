@@ -1,0 +1,105 @@
+
+==================================================
+📊 BNB SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-03 22:25:07
+
+💰 Market Data:
+ - Price (USD): $598.4100
+ - Price (SGD): $777.8100
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = -0.111 (Weight: 0.4)
+ - Reddit    : Polarity = 0.000 (Weight: 0.3)
+ - News      : Polarity = 0.118 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: -0.009
+
+💡 Trading Signal:
+ 👉 Action   : SELL
+ 🔥 Strength : 0.109
+==================================================
+
+==================================================
+📊 BNB SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-03 22:58:44
+
+💰 Market Data:
+ - Price (USD): $598.0200
+ - Price (SGD): $777.3000
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = -0.111 (Weight: 0.4)
+ - Reddit    : Polarity = 0.000 (Weight: 0.3)
+ - News      : Polarity = 0.100 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: -0.014
+
+💡 Trading Signal:
+ 👉 Action   : SELL
+ 🔥 Strength : 0.114
+==================================================
+
+==================================================
+📊 BNB SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-03 23:02:59
+
+💰 Market Data:
+ - Price (USD): $598.1200
+ - Price (SGD): $777.4300
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = -0.111 (Weight: 0.4)
+ - Reddit    : Polarity = 0.000 (Weight: 0.3)
+ - News      : Polarity = 0.101 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: -0.014
+
+💡 Trading Signal:
+ 👉 Action   : SELL
+ 🔥 Strength : 0.114
+==================================================
+
+==================================================
+📊 BNB SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-04 15:22:50
+
+💰 Market Data:
+ - Price (USD): $597.4000
+ - Price (SGD): $776.5000
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = 0.059 (Weight: 0.4)
+ - Reddit    : Polarity = 0.000 (Weight: 0.3)
+ - News      : Polarity = 0.095 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: 0.052
+
+💡 Trading Signal:
+ 👉 Action   : SELL
+ 🔥 Strength : 0.048
+==================================================
+
+==================================================
+📊 BNB SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-04 15:42:31
+
+💰 Market Data:
+ - Price (USD): $596.7500
+ - Price (SGD): $775.6600
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = 0.059 (Weight: 0.4)
+ - Reddit    : Polarity = 0.000 (Weight: 0.3)
+ - News      : Polarity = 0.096 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: 0.052
+
+💡 Trading Signal:
+ 👉 Action   : SELL
+ 🔥 Strength : 0.048
+==================================================

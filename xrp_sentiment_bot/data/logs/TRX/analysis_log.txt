@@ -1,0 +1,147 @@
+
+==================================================
+📊 TRX SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-03 22:26:22
+
+💰 Market Data:
+ - Price (USD): $0.2481
+ - Price (SGD): $0.3224
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = 0.304 (Weight: 0.4)
+ - Reddit    : Polarity = -0.069 (Weight: 0.3)
+ - News      : Polarity = 0.158 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: 0.148
+
+💡 Trading Signal:
+ 👉 Action   : HOLD
+ 🔥 Strength : 0.248
+==================================================
+
+==================================================
+📊 TRX SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-03 22:38:43
+
+💰 Market Data:
+ - Price (USD): $0.2479
+ - Price (SGD): $0.3222
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = 0.304 (Weight: 0.4)
+ - Reddit    : Polarity = -0.069 (Weight: 0.3)
+ - News      : Polarity = 0.158 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: 0.148
+
+💡 Trading Signal:
+ 👉 Action   : HOLD
+ 🔥 Strength : 0.248
+==================================================
+
+==================================================
+📊 TRX SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-03 23:00:03
+
+💰 Market Data:
+ - Price (USD): $0.2476
+ - Price (SGD): $0.3219
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = 0.238 (Weight: 0.4)
+ - Reddit    : Polarity = -0.069 (Weight: 0.3)
+ - News      : Polarity = 0.154 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: 0.121
+
+💡 Trading Signal:
+ 👉 Action   : HOLD
+ 🔥 Strength : 0.221
+==================================================
+
+==================================================
+📊 TRX SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-03 23:04:20
+
+💰 Market Data:
+ - Price (USD): $0.2476
+ - Price (SGD): $0.3218
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = 0.238 (Weight: 0.4)
+ - Reddit    : Polarity = -0.069 (Weight: 0.3)
+ - News      : Polarity = 0.155 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: 0.121
+
+💡 Trading Signal:
+ 👉 Action   : HOLD
+ 🔥 Strength : 0.221
+==================================================
+
+==================================================
+📊 TRX SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-04 15:13:51
+
+💰 Market Data:
+ - Price (USD): $0.2485
+ - Price (SGD): $0.3230
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = 0.429 (Weight: 0.4)
+ - Reddit    : Polarity = -0.069 (Weight: 0.3)
+ - News      : Polarity = 0.148 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: 0.195
+
+💡 Trading Signal:
+ 👉 Action   : HOLD
+ 🔥 Strength : 0.295
+==================================================
+
+==================================================
+📊 TRX SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-04 15:24:35
+
+💰 Market Data:
+ - Price (USD): $0.2485
+ - Price (SGD): $0.3230
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = 0.467 (Weight: 0.4)
+ - Reddit    : Polarity = -0.069 (Weight: 0.3)
+ - News      : Polarity = 0.148 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: 0.211
+
+💡 Trading Signal:
+ 👉 Action   : HOLD
+ 🔥 Strength : 0.289
+==================================================
+
+==================================================
+📊 TRX SENTIMENT ANALYSIS
+==================================================
+🕒 Timestamp: 2025-05-04 15:44:39
+
+💰 Market Data:
+ - Price (USD): $0.2484
+ - Price (SGD): $0.3229
+
+🔍 Sentiment Breakdown:
+ - Coingecko : Polarity = 0.467 (Weight: 0.4)
+ - Reddit    : Polarity = -0.069 (Weight: 0.3)
+ - News      : Polarity = 0.150 (Weight: 0.3)
+
+🧠 Composite Sentiment Score: 0.211
+
+💡 Trading Signal:
+ 👉 Action   : HOLD
+ 🔥 Strength : 0.289
+==================================================
